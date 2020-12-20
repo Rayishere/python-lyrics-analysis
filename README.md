@@ -6,8 +6,9 @@ Scooping around Taylor Swift song lyrics.
 
 This is the purpose of tracking my study record in the field of data science. Therefore, I edited some examples from CodeAcademy for demonstration purposes.
 
-The refernce source: <https://news.codecademy.com/song-lyric-topic-analysis-live/>
-The reference vedio: <https://www.youtube.com/watch?v=wKW8z6zqCFo&t=19s>
+The refernce source: <https://news.codecademy.com/song-lyric-topic-analysis-live/>.
+
+The reference vedio: <https://www.youtube.com/watch?v=wKW8z6zqCFo&t=19s>.
 
 ### Prerequisites
 
